@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/b6c5566e-b841-40da-8966-be80a2bf3c4e)
+
+<img width="1920" height="1140" alt="Screenshot 2026-03-31 191932" src="https://github.com/user-attachments/assets/6ac7138b-fedf-4b93-8f3c-9d40fc8769cf" />
 
 ### Name: LOGESH B
 ### Register Number: 212224110034
